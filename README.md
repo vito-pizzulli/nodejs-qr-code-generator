@@ -1,4 +1,4 @@
-# QR Code Generator
+# Node.js QR Code Generator
 
 ## Descrizione
 
